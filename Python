@@ -9,7 +9,7 @@ import script
 import sys
 import random #import random module 
 
-"""guesser.py, by Megan Joseph adapted from Richard White
+"""guesser.py, by Megan adapted from Richard White
 
 This program has the user guess a number between 1 and 100.
 """
