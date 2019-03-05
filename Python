@@ -1,7 +1,5 @@
 #!/usr/bin/env python
 
-#!/usr/bin/env python
-
 #Demonstration of Python Workflow Process 
 # Use Two Terminal Windows to Write & Debug Simple Python 3 Program 
 
@@ -9,7 +7,7 @@ import script
 import sys
 import random #import random module 
 
-"""guesser.py, by Megan adapted from Richard White
+"""guesser.py, by Megan Joseph adapted from Richard White
 
 This program has the user guess a number between 1 and 100.
 """
